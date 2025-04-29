@@ -31,7 +31,7 @@ To create a python program using dynamic programming for 0/1 knapsack problem..
 
 ```
 def knapSack(W, wt, val, n):
-    ########## Add your code here #########
+  
     if n==0 or W==0:
         return 0
     if(wt[n-1]>W):
