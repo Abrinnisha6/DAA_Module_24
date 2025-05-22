@@ -1,6 +1,6 @@
 # EX 6A CHERRY PICK UP PROBLEM
 
-## DATE :
+## DATE :16/05/2025
 
 ## AIM :
 
