@@ -1,6 +1,6 @@
 # EX 6B KNAPSACK PROBLEM
 
-## DATE :
+## DATE :16/05/2025
 
 ## AIM :
 
