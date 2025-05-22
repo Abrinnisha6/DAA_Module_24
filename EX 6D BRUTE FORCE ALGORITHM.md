@@ -1,6 +1,6 @@
 # EX 6D BRUTE FORCE ALGORITHM
 
-## DATE :
+## DATE :16/05/2025
 
 ## AIM :
 
